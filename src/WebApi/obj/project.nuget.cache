@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgYBgsDCUwc=",
+  "success": true,
+  "projectFilePath": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facto\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\facto\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
