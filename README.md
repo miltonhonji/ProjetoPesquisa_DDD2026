@@ -86,3 +86,7 @@ dotnet add package Swashbuckle.AspNetCore --version 10.2.3
 
 4 - src/WebApi
 dotnet add package Swashbuckle.AspNetCore --version 10.2.3
+
+# Criando a Entities/Notifications
+
+Criei 
