@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 using System.Text.Json.Serialization;
 
-namespace Domain.Notifications
+namespace Entities.Notifications
 {
     public class Notifica
     {
