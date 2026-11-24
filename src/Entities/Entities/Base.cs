@@ -1,8 +1,8 @@
-﻿using Entities.Notifications;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
+using Entities.Notifications;
 
 namespace Entities.Entities
 {
