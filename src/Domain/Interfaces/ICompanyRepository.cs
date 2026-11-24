@@ -1,10 +1,11 @@
+using Entities.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Domain.Interfaces
 {
-    public interface ICompanyRepository
+    public interface ICompanyRepository :IRepository<Company>
     {
         
     }
