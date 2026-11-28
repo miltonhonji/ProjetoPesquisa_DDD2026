@@ -20,5 +20,12 @@ namespace Entities.EntitiesNoMap
         public int Weight {get;set;}
         public bool Active { get; set;}
         public int QuestionId { get; set; }
+        public OptionResponseDTO OptionResponse { get; set; }
+    }
+
+    public class OptionResponseDTO
+    {
+        public int Id { get; set; }
+        public int Weight { get; set; }
     }
 }

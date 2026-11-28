@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Entities.EntitiesNoMap;
 
 namespace Domain.InterfacesServices
 {

@@ -3670,11 +3670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\Webapi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\Webapi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\facto\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\WebApi\\obj\\",
+      "outputPath": "D:\\.NET_Valdir_Ferreira_DDD\\ProjetoPesquisa_DDD2026\\src\\Webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\facto\\AppData\\Roaming\\NuGet\\NuGet.Config",

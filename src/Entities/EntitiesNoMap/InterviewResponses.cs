@@ -6,7 +6,12 @@ namespace Entities.EntitiesNoMap
 {
     public class InterviewResponses
     {
-        //public 
+        public InterviewResponses()
+        {
+            InterviewResponsesList = new List<ResponseQuestionDTO>();
+        } 
+
+        public List<ResponseQuestionDTO> InterviewResponsesList { get; set; }
     }
 
     public class ResponseQuestionDTO
